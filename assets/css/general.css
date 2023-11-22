@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url("assets/fonts/OpenSans_Condensed-Light.ttf");
+    font-weight: 300;
+  }
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url("assets/fonts/OpenSans_Condensed-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url("assets/fonts/OpenSans_Condensed-SemiBold.ttf");
+    font-weight: 600;
+}
