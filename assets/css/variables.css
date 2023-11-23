@@ -7,8 +7,10 @@
 
     --main-font-family: 'Open Sans', sans-serif;
     --menu-font-size: 23px;
+    --regular-font-size: 18px;
 
     --header-height: 105px;
+    --minus-header-height: -105px;
 
     --hover-cursor: pointer;
 }

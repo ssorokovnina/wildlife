@@ -1,0 +1,32 @@
+.about {
+    height: 675px;
+}
+
+.about__wrapper {
+    padding-top: 96px;
+}
+
+.about__title {
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--bright-color);
+
+    line-height: 72px;
+}
+
+.about__text {
+    width: 274px;
+
+    padding: 49px 0 25px;
+    font-size: var(--regular-font-size);
+
+    line-height: 27px;
+}
+
+.donate {
+    width: 160px;
+    height: 60px;
+
+    font-size: 22px;
+    background-color: var(--bright-color);
+}
