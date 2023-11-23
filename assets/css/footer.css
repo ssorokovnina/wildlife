@@ -14,6 +14,8 @@
 }
 
 .navigation {
+    height: 100%;
+    
     padding: 0 120px;
 
     display: flex;
