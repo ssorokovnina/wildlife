@@ -1,3 +1,8 @@
 @import './assets/css/clear.css';
 @import './assets/css/variables.css';
-
+@import './assets/css/general.css';
+@import './assets/css/header.css';
+@import './assets/css/about.css';
+@import './assets/css/articles.css';
+@import './assets/css/notifier.css';
+@import './assets/css/footer.css';
