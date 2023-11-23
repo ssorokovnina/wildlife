@@ -6,6 +6,8 @@
 
     font-family: var(--main-font-family);
     color: var(--main-color);
+
+    background-color: var(--main-bg-color);
 }
 
 .main__container {
