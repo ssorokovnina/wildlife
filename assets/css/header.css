@@ -40,7 +40,7 @@
 .search {
     width: 93px;
     height: 100%;
-    padding-right: 61px;
+    padding-right: 64px;
 
     display: flex;
     flex-direction: column;
@@ -55,13 +55,16 @@
     height: 100%;
 
     padding-top: 24px;
+    line-height: 48px;
 }
 
 .button__item {
     padding: 0;
 
     text-align: center;
-    font: inherit;
+
+    font-family: var(--main-font-family);
+    font-size: 22px;
     color: var(--main-color);
 
     border: 2px solid var(--bright-color);
@@ -73,8 +76,6 @@
     height: 50px;
 
     padding: 2px 23px 0;
-
-    line-height: 48px;
 
     background-color: transparent;
 }

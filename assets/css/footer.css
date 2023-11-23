@@ -1,0 +1,34 @@
+.footer__container {
+    height: 359px;
+
+    background-image: url('../img/bg-footer.jpg');
+    background-position: center 0;
+    background-repeat: no-repeat;
+}
+
+.footer__wrapper {
+    padding-top: 130px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation {
+    padding: 0 120px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 88px;
+}
+
+.navigation__item {
+    font-size: var(--menu-font-size);
+}
+
+.socials {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 27px;
+}
