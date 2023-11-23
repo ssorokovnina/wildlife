@@ -45,7 +45,9 @@
 }
 
 .notifier__input::placeholder {
+    font-family: var(--main-font-family);
     font-size: var(--menu-font-size);
+    transform: translateY(5px);
 }
 
 .notifier__button {
