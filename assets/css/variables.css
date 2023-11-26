@@ -1,0 +1,16 @@
+:root {
+    --main-bg-color: #CCCCCC;
+
+    --main-color: #F7F7F7;
+    --sub-color: #333333;
+    --bright-color: #CD6326;
+
+    --main-font-family: 'Open Sans', sans-serif;
+    --menu-font-size: 23px;
+    --regular-font-size: 18px;
+
+    --header-height: 105px;
+    --minus-header-height: -105px;
+
+    --hover-cursor: pointer;
+}

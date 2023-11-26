@@ -1,0 +1,70 @@
+.articles__title, .articles__subtitle {
+    margin: 0 auto;
+
+    text-align: center;
+    font-weight: 400;
+}
+
+.articles__title {
+    width: 324px;
+
+    padding-top: 120px;
+
+    font-size: 48px;
+    line-height: 72px;
+    color: var(--sub-color);
+}
+
+.articles__subtitle {
+    width: 332px;
+
+    padding-top: 20px;
+
+    font-size: 24px;
+    line-height: 36px;
+    color: #666666;
+}
+
+.slider {
+    padding-top: 120px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.arrow {
+    padding: 0;
+}
+
+.animals {
+    padding-left: 5px;
+
+    display: flex;
+    column-gap: 60px;
+}
+
+.animals__name, .animals__tagline {
+    position: relative;
+    top: -117px;
+
+    text-align: center;
+}
+
+.animals__name {
+    padding-bottom: 10px;
+
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+.animals__tagline {
+    font-size: 17px;
+    line-height: 27px;
+}
+
+.animals__link_inline {
+    display: block;
+    height: 0;
+}

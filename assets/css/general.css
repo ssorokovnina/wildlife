@@ -1,0 +1,41 @@
+.container {
+    max-width: 1440px;
+
+    margin: 0 auto;
+    padding: 0 120px;
+
+    font-family: var(--main-font-family);
+    color: var(--main-color);
+
+    background-color: var(--main-bg-color);
+}
+
+.main__container {
+    background-image: url('../img/bg.jpg');
+    background-position: center var(--minus-header-height);
+    background-repeat: no-repeat;
+}
+
+.logo {
+    width: 240px;
+
+    padding: 20px 0 25px;
+}
+
+.logo__link {
+    height: 60px;
+
+    display: flex;
+}
+
+.logo__pic {
+    width: 70px;
+    height: 60px;
+}
+
+.logo__title {
+    padding-left: 15px;
+
+    font-size: 32px;
+    line-height: 60px;
+}
